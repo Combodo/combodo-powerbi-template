@@ -3,7 +3,7 @@
 ## About
 
 The report template on Microsoft Power BI Desktop use specifics iTop queries phrasebooks to display the helpdesk activity of your service.
-The queries phrasebooks are provided into [combodo-power-integration](https://github.com/Combodo/combodo-powerbi-integration).
+The queries phrasebooks are provided into [combodo-powerbi-integration](https://github.com/Combodo/combodo-powerbi-integration).
 
 For more information about this module have a look at the [Documentation](https://www.itophub.io/wiki/page?id=extensions:combodo-powerbi-integration).
 
