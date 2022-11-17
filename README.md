@@ -1,4 +1,4 @@
-# PowerBI reporting template - Helpdesk view
+# Reporting template for PowerBI - Helpdesk view
 
 ## About
 
